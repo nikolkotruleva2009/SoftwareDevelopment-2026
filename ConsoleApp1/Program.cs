@@ -27,8 +27,6 @@ internal class Program
             Console.WriteLine("4. Iztrii zadacha");
             Console.WriteLine("5. Izhod");
 
-
-
             Console.Write("Izberi: ");
             int choice = int.Parse(Console.ReadLine());
 
